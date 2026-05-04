@@ -87,9 +87,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-V Kumar - V.Kumar@iiitb.ac.in 
-V Kumar — [GitHub Profile](https://github.com/kumarveluru)
-Project Link: [https://github.com/kumarveluru/PSoC-5-Stamp-Board](https://github.com/kumarveluru/PSoC-5-Stamp-Board)
+V Kumar - V.Kumar@iiitb.ac.in  [GitHub Profile](https://github.com/kumarveluru)
+Project Link: [https://github.com/kumarveluru/PSoC-5-Stamp-Board](https://github.com/kumarveluru/PSoC-5-Stamp-Boar)
 
 
 
