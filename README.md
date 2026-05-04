@@ -14,7 +14,7 @@ You will find the following:
 
 For more details, refer to:
 - [CY8CPROTO-063-BLE Product Page](https://www.infineon.com/evaluation-board/cy8cproto-063-ble)
-- [PSoC 63 Datasheet](https://www.infineon.com/dgdl/Infineon-PSoC_6_MCU_CY8C63xB_CY8C63xA-DataSheet-v22_00-EN.pdf)
+- [PSoC 63 Datasheet](https://www.infineon.com/assets/row/public/documents/30/44/infineon-psoc-tm-6-cy8cproto-063-ble-with-airoc-tm-bluetooth-r-le-prototyping-board-user-guide-usermanual-en.pdf)
 
 ---
 
