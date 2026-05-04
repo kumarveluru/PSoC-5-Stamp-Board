@@ -1,7 +1,7 @@
 # PSoC 5LP Stamp Board
 
 This repository contains all the essential files related to the PSoC 5LP Stamp Board,
-a compact, stamp-sized development board based on the Cypress CY8C5888LTI-LP097 (PSoC 5LP)
+a compact, stamp-sized development board based on the Cypress CY8C5888LTI-LP039 (PSoC 5LP)
 microcontroller. It features a single-core ARM Cortex-M3 architecture, a rich set of
 programmable analog peripherals including Delta-Sigma ADCs, DACs, and OpAmps, highly
 flexible digital logic via Universal Digital Blocks (UDBs), and castellated edge pins
