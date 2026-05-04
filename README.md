@@ -19,11 +19,6 @@ You will find the following:
 - **Flash Memory:** 256 KB
 - **SRAM:** 64 KB
 ---
-For more details, refer to:
-- [CY8CPROTO-063-BLE Product Page](https://www.infineon.com/evaluation-board/cy8cproto-063-ble)
-- [PSoC 63 Datasheet](https://www.infineon.com/assets/row/public/documents/30/44/infineon-psoc-tm-6-cy8cproto-063-ble-with-airoc-tm-bluetooth-r-le-prototyping-board-user-guide-usermanual-en.pdf)
-
----
 
 ### Tools Used
 
