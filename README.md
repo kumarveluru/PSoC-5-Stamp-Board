@@ -8,7 +8,7 @@ flexible digital logic via Universal Digital Blocks (UDBs), and castellated edge
 for easy SMD module integration.
 You will find the following:
 
-- **Board Schematic:** A detailed circuit design of the PSoC 6 BLE Stamp Board.
+- **Board Schematic:** A detailed circuit design of the PSoC 5LP Stamp Board.
 - **PCB Layout:** The physical design of the printed circuit board.
 - **PCB Routing:** The connections and pathways for signals and power on the PCB.
 
