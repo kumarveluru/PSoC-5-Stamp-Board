@@ -1,16 +1,20 @@
-# PSoC-5-Stamp-Board
-PSoC 5 Stamp Board is a compact, stamp-sized development board built around the Cypress PSoC 5LP microcontroller, featuring an ARM Cortex-M3 core, programmable analog and digital peripherals, USB connectivity, and castellated edge pins for easy SMD module integration.
-# PSoC 5 Stamp Board
+# PSoC 6 BLE Stamp Board
 
-This repository contains all the essential files related to the **PSoC 5 Stamp Board**, a compact, stamp-sized development board built around the **Cypress PSoC 5LP** microcontroller, featuring an ARM Cortex-M3 core, programmable analog and digital peripherals, USB connectivity, and castellated edge pins for easy SMD module integration.
+This repository contains all the essential files related to the **PSoC 6 BLE Stamp Board**, 
+a compact, stamp-sized development board based on the **Cypress CY8C6347BZI-BLD53 (PSoC 63)** 
+microcontroller. It features a dual-core **ARM Cortex-M4 + Cortex-M0+** architecture, 
+integrated **Bluetooth 5.0 Low Energy (BLE)**, programmable analog and digital peripherals, 
+and castellated edge pins for easy SMD module integration.
 
 You will find the following:
 
-- **Board Schematic:** A detailed circuit design of the PSoC 5 Stamp Board.
+- **Board Schematic:** A detailed circuit design of the PSoC 6 BLE Stamp Board.
 - **PCB Layout:** The physical design of the printed circuit board.
 - **PCB Routing:** The connections and pathways for signals and power on the PCB.
 
-For more details about the PSoC 5LP microcontroller, you can refer to the [PSoC 5LP Datasheet](https://www.infineon.com/dgdl/Infineon-PSoC_5LP_CY8C58LP_Family-DataSheet-v14_00-EN.pdf).
+For more details, refer to:
+- [CY8CPROTO-063-BLE Product Page](https://www.infineon.com/evaluation-board/cy8cproto-063-ble)
+- [PSoC 63 Datasheet](https://www.infineon.com/dgdl/Infineon-PSoC_6_MCU_CY8C63xB_CY8C63xA-DataSheet-v22_00-EN.pdf)
 
 ---
 
@@ -72,8 +76,8 @@ The name of the library is:
 
 | Parameter | Value    |
 |-----------|----------|
-| Width     | 21.00 mm |
-| Height    | 51.00 mm |
+| Width     | 31.26 mm |
+| Height    | 29.175 mm |
 
 ---
 
