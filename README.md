@@ -1,17 +1,24 @@
-# PSoC 6 BLE Stamp Board
+# PSoC 5LP Stamp Board
 
-This repository contains all the essential files related to the **PSoC 6 BLE Stamp Board**, 
-a compact, stamp-sized development board based on the **Cypress CY8C6347BZI-BLD53 (PSoC 63)** 
-microcontroller. It features a dual-core **ARM Cortex-M4 + Cortex-M0+** architecture, 
-integrated **Bluetooth 5.0 Low Energy (BLE)**, programmable analog and digital peripherals, 
-and castellated edge pins for easy SMD module integration.
-
+This repository contains all the essential files related to the PSoC 5LP Stamp Board,
+a compact, stamp-sized development board based on the Cypress CY8C5888LTI-LP097 (PSoC 5LP)
+microcontroller. It features a single-core ARM Cortex-M3 architecture, a rich set of
+programmable analog peripherals including Delta-Sigma ADCs, DACs, and OpAmps, highly
+flexible digital logic via Universal Digital Blocks (UDBs), and castellated edge pins
+for easy SMD module integration.
 You will find the following:
 
 - **Board Schematic:** A detailed circuit design of the PSoC 6 BLE Stamp Board.
 - **PCB Layout:** The physical design of the printed circuit board.
 - **PCB Routing:** The connections and pathways for signals and power on the PCB.
 
+## Features
+
+- **Microcontroller:** Cypress CY8C5888LTI-LP097 (PSoC 5LP)
+- **CPU Core:** ARM Cortex-M3 @ up to 80 MHz
+- **Flash Memory:** 256 KB
+- **SRAM:** 64 KB
+---
 For more details, refer to:
 - [CY8CPROTO-063-BLE Product Page](https://www.infineon.com/evaluation-board/cy8cproto-063-ble)
 - [PSoC 63 Datasheet](https://www.infineon.com/assets/row/public/documents/30/44/infineon-psoc-tm-6-cy8cproto-063-ble-with-airoc-tm-bluetooth-r-le-prototyping-board-user-guide-usermanual-en.pdf)
