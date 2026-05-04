@@ -38,8 +38,8 @@ The name of the library is:
 
 ## Schematic
 
-![Schematic](<img width="691" height="317" alt="Screenshot 2026-05-04 145549" src="https://github.com/user-attachments/assets/9b9b8a19-20b5-4921-ba5a-181147d3f231" />
-)
+![Schematic](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/Root%20Schematic.png)
+
 
 ---
 
@@ -47,13 +47,11 @@ The name of the library is:
 
 ### Placement of Components
 
-![Component Placement](<img width="865" height="794" alt="Screenshot 2026-05-04 145130" src="https://github.com/user-attachments/assets/b95408fc-77db-4869-942d-647cf99a64b0" />
-)
+![Component Placement](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/Placement.png)
 
 ### Overall PCB Layout
 
-![PCB Layout](<img width="414" height="392" alt="Screenshot 2026-05-04 150349" src="https://github.com/user-attachments/assets/5a388ec2-eddb-4eeb-9dd6-95a00a8341bc" />
-)
+![PCB Layout](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/Layout.png)
 
 ---
 
@@ -61,14 +59,11 @@ The name of the library is:
 
 ### Top View
 
-![3D Top View](<img width="992" height="854" alt="Screenshot 2026-05-04 145303" src="https://github.com/user-attachments/assets/aae14743-4f86-408f-8327-b332adeee368" />
-)
+![3D Top View](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/3D%20view%20Top.png)
 
 ### Bottom View
 
-![3D Bottom View]<img width="982" height="870" alt="Screenshot 2026-05-04 145315" src="https://github.com/user-attachments/assets/02ff263f-3d81-48ed-9bab-2ce034d153f8" />
-
-)
+![3D Bottom View](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/3D%20view%20Bottom.png)
 
 ---
 
