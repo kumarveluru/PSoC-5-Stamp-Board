@@ -12,13 +12,6 @@ You will find the following:
 - **PCB Layout:** The physical design of the printed circuit board.
 - **PCB Routing:** The connections and pathways for signals and power on the PCB.
 
-## Features
-
-- **Microcontroller:** Cypress CY8C5888LTI-LP097 (PSoC 5LP)
-- **CPU Core:** ARM Cortex-M3 @ up to 80 MHz
-- **Flash Memory:** 256 KB
-- **SRAM:** 64 KB
----
 
 ### Tools Used
 
